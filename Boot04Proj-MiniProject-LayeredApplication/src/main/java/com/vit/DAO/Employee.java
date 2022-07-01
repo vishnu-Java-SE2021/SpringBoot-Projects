@@ -1,7 +1,7 @@
 //Employee.java
 package com.vit.DAO;
 
-import lombok.AllArgsConstructor;
+import lombok.AllArgsConstructor; 
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
